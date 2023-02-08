@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 	<tr>
 		<td>1</td>
             	<td><a href="https://github.com/eskokado/my_study_plan"><b>My Study Plan</b></a></td>
-		<td>Business / Developer</td>
+		<td>Study</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
