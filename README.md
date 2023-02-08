@@ -51,6 +51,33 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=Flutter)
 <br><br>
 
+<h3>Projects</h3>
+<table>
+    <thead align="center">
+        <tr border: none;>
+            <td><b>Id</b></td>
+	    <td><b>Projects</b></td>
+	    <td><b>Skills</b></td>
+            <td><b>Stars</b></td>
+            <td><b>Forks</b></td>
+            <td><b>Issues</b></td>
+            <td><b>Pull requests</b></td>
+        </tr>
+    </thead>
+    <tbody>
+	<tr>
+		<td>1</td>
+            	<td><a href="https://github.com/eskokado/my_study_plan"><b>My Study Plan</b></a></td>
+		<td>Business / Developer</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">  
