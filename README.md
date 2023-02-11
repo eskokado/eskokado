@@ -74,6 +74,15 @@ Here are some ideas to get you started:
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
         </tr>
+	<tr>
+		<td>1</td>
+            	<td><a href="https://github.com/eskokado/ecommerce-api-esk"><b>E-commerce Esk</b></a></td>
+		<td>Study</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
+        </tr>
     </tbody>
 </table>
 
