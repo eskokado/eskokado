@@ -12,14 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá, meu nome é Edson Shideki Kokado
-  
-- 🔥 Tenho como propósito voltar a ser desenvolvedor o mais rápido possível e melhorar minha vida pessoal com minha esposa Neuza e meus filhos Karina e Victor.
+# Edson Shideki Kokado - Programador
 
-- 🌱 Atualmente estou em treinamento em backend: javascript, nodejs, typescript e ruby, podemos dizer que em front-end: reactjs e rails.
+Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiência em sistemas ERP.
 
-- 💬  Aperfeiçoando com a comunicação e com novas tecnologias, com finalidade de ser um expert em developer, e enfim, acompanhando com a aprendizagem em inglês.
+## História
 
+Há alguns anos, passei por uma baixa de saúde que me afastou do mundo da programação por 12 anos. Durante esse tempo, perdi o contato com a internet e celular, mas assim que retomei o contato com a tecnologia, decidi fazer dela meu hobby e recuperei meu amor pela programação. Fiz aulas de tecnologia on-line e obtive certificados, que estão disponíveis no meu LinkedIn.
+
+## Experiência Profissional
+
+Durante minha carreira, trabalhei em vários sistemas ERP, incluindo um montado em Clipper e uma parte financeira desenvolvida em Delphi. Também trabalhei por mais de 5 anos com o Protheus, o maior sistema ERP da América do Sul. Além disso, possuo habilidades em Clipper, ADVPL, Delphi, Flutter, Visual Basic, SQLServer, Protheus, Java, C#, JavaScript, Node, TypeScript, PostgreSQL, MySQL e SQLServer. 
+
+## Projetos e Habilidades
+
+Participei de projetos em equipe, onde aprimorei minhas habilidades em comunicação, proatividade e uso do Github. Além disso, documentei minhas jornadas de estudo no Github e tenho vídeos de desafios superados.
+
+## Contato
+
+Estou procurando uma oportunidade de trabalhar em uma equipe de desenvolvimento e aplicar minha experiência e habilidades para contribuir para o sucesso da empresa. Se você procura um programador experiente e dedicado, por favor, entre em contato comigo.
+
+Obrigado por lerem minha história. Vamos continuar programando juntos!
 <br><br>  
 
 ## Tecnologia
