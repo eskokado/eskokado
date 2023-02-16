@@ -12,27 +12,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Edson Shideki Kokado - Programador
+# Apresentação Profissional - Edson Shideki Kokado
 
-Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiência em sistemas ERP.
+## Introdução
 
-## História
-
-Há alguns anos, passei por uma baixa de saúde que me afastou do mundo da programação por 12 anos. Durante esse tempo, perdi o contato com a internet e celular, mas assim que retomei o contato com a tecnologia, decidi fazer dela meu hobby e recuperei meu amor pela programação. Fiz aulas de tecnologia on-line e obtive certificados, que estão disponíveis no meu LinkedIn.
+Boa noite, meu nome é Edson Shideki Kokado, tenho 55 anos e sou um programador com mais de 20 anos de carreira. Infelizmente, enfrentei problemas de saúde e fiquei 12 anos afastado do mundo da programação, sendo os primeiros 6 anos sem contato com internet e celular. Após me reconectar com a internet, decidi dedicar meu tempo livre às aulas de tecnologia online e obtive diversos certificados que constam no meu perfil do LinkedIn. Agora estou ansioso para retornar ao mercado de trabalho com força total.
 
 ## Experiência Profissional
 
-Durante minha carreira, trabalhei em vários sistemas ERP, incluindo um montado em Clipper e uma parte financeira desenvolvida em Delphi. Também trabalhei por mais de 5 anos com o Protheus, o maior sistema ERP da América do Sul. Além disso, possuo habilidades em Clipper, ADVPL, Delphi, Flutter, Visual Basic, SQLServer, Protheus, Java, C#, JavaScript, Node, TypeScript, PostgreSQL, MySQL e SQLServer. 
+Tenho uma vasta experiência em desenvolvimento de software, tendo trabalhado durante 20 anos em ERPs, incluindo um que desenvolvi em Clipper. Posteriormente, trabalhei na implementação de uma parte financeira de um ERP utilizando Delphi, além de ter trabalhado com o Protheus por mais de 5 anos, em diferentes áreas como faturamento, vendas, financeiro, compras, estoque, contabilidade e RH. Nesse período, eu também fui responsável pela customização, documentação e suporte do sistema.
 
-## Projetos e Habilidades
+## Conhecimentos Técnicos
 
-Participei de projetos em equipe, onde aprimorei minhas habilidades em comunicação, proatividade e uso do Github. Além disso, documentei minhas jornadas de estudo no Github e tenho vídeos de desafios superados.
+Tenho habilidades em diversas linguagens de programação, incluindo Clipper, ADVPL, Delphi, Flutter e Visual Basic, bem como experiência em bancos de dados como PostgreSQL, MySQL e SQL Server. Além disso, possuo conhecimentos em Java, C#, JavaScript, Node.js e TypeScript.
 
-## Contato
+## Projetos e Certificações
 
-Estou procurando uma oportunidade de trabalhar em uma equipe de desenvolvimento e aplicar minha experiência e habilidades para contribuir para o sucesso da empresa. Se você procura um programador experiente e dedicado, por favor, entre em contato comigo.
+Participei de uma jornada de estudos de desenvolvedor full stack e trabalhei em equipe em dois projetos, nos quais aprimorei minhas habilidades de comunicação e proatividade, além de melhorar minha experiência com o GitHub. Tenho orgulho de ter alcançado vários desafios, alguns dos quais estão documentados em vídeos postados no LinkedIn, e tenho um certificado de frontend. Também possuo dois projetos documentados no GitHub e certificados de diversos cursos em áreas de soft-skills e hard-skills obtidos na Udemy.
 
-Obrigado por lerem minha história. Vamos continuar programando juntos!
+## Plano de Carreira
+
+Atualmente, estou participando de uma mentoria com Marco Castro da DesenvolvendoMe, onde nossa equipe tem a oportunidade de adquirir e aperfeiçoar habilidades de soft-skills, hard-skills, mindset e inteligência emocional. Meu plano é me tornar um desenvolvedor júnior em 3 meses, pleno em 6 meses, sênior em 1 ano e, posteriormente, adicionar habilidades em multi-cloud e microservices.
+
+## Habilidades
+
+Possuo habilidades em várias tecnologias, incluindo:
+- Front-end: HTML, CSS, JavaScript, ReactJS, Node.js;
+- Back-end: TypeScript, Node.js, Python (Django e Flask), Java, C# e Ruby;
+- Desktop: Clipper, ADVPL e Delphi;
+- Mobile: Flutter;
+- Bancos de Dados: MySQL, SQL Server e Postgres.
+
+## Conclusão
+
+Espero ter demonstrado minha vasta experiência e conhecimento em programação, bem como minha dedicação e comprometimento em aprimorar minhas habilidades constantemente. Estou ansioso para retornar ao mercado de trabalho e colaborar em projetos desafiadores e, ao mesmo tempo, adquirir novos conhecimentos e experiências. Agradeço pela oportunidade de apresentar minha experiência e habilidades, e estou à disposição para esclarecer quaisquer dúvidas adicionais.
+
+
 <br><br>  
 
 ## Tecnologia
