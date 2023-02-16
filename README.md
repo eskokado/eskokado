@@ -12,42 +12,56 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Apresentação Profissional - Edson Shideki Kokado
+# Edson Shideki Kokado - Resumo do Perfil Profissional
 
 ## Introdução
 
-Boa noite, meu nome é Edson Shideki Kokado, tenho 55 anos e sou um programador com mais de 20 anos de carreira. Infelizmente, enfrentei problemas de saúde e fiquei 12 anos afastado do mundo da programação, sendo os primeiros 6 anos sem contato com internet e celular. Após me reconectar com a internet, decidi dedicar meu tempo livre às aulas de tecnologia online e obtive diversos certificados que constam no meu perfil do LinkedIn. Agora estou ansioso para retornar ao mercado de trabalho com força total.
+Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiência em desenvolvimento de software. Depois de um período de 12 anos sem programar, estou de volta ao mercado e me atualizando rapidamente com as últimas tecnologias.
 
 ## Experiência Profissional
 
-Tenho uma vasta experiência em desenvolvimento de software, tendo trabalhado durante 20 anos em ERPs, incluindo um que desenvolvi em Clipper. Posteriormente, trabalhei na implementação de uma parte financeira de um ERP utilizando Delphi, além de ter trabalhado com o Protheus por mais de 5 anos, em diferentes áreas como faturamento, vendas, financeiro, compras, estoque, contabilidade e RH. Nesse período, eu também fui responsável pela customização, documentação e suporte do sistema.
+- 20 anos trabalhando em erps, com destaque para o desenvolvimento de um em clipper e a parte financeira de um em delphi
+- +5 anos de experiência com o Protheus em departamentos como faturamento, vendas, financeiro, compras, estoque, contabilidade e RH, incluindo customização, documentação e suporte do sistema
 
-## Conhecimentos Técnicos
+## Habilidades Técnicas
 
-Tenho habilidades em diversas linguagens de programação, incluindo Clipper, ADVPL, Delphi, Flutter e Visual Basic, bem como experiência em bancos de dados como PostgreSQL, MySQL e SQL Server. Além disso, possuo conhecimentos em Java, C#, JavaScript, Node.js e TypeScript.
+- Linguagens de programação: Clipper, ADVPL, Delphi, Flutter e Visual Basic
+- Bancos de Dados: Postgresql, MySQL, SQL Server
+- Conhecimentos em Java, C#, JavaScript, Node e TypeScript
 
-## Projetos e Certificações
+## Formação Acadêmica e Cursos
 
-Participei de uma jornada de estudos de desenvolvedor full stack e trabalhei em equipe em dois projetos, nos quais aprimorei minhas habilidades de comunicação e proatividade, além de melhorar minha experiência com o GitHub. Tenho orgulho de ter alcançado vários desafios, alguns dos quais estão documentados em vídeos postados no LinkedIn, e tenho um certificado de frontend. Também possuo dois projetos documentados no GitHub e certificados de diversos cursos em áreas de soft-skills e hard-skills obtidos na Udemy.
+- Participando de uma jornada de estudo de desenvolvedor full-stack na Kenzie Academy
+- Certificados de diversos cursos de soft e hard skills na Udemy
+- 2 jornadas de estudo documentadas no Github
 
-## Plano de Carreira
+## Mentoria e Habilidades Desenvolvidas
 
-Atualmente, estou participando de uma mentoria com Marco Castro da DesenvolvendoMe, onde nossa equipe tem a oportunidade de adquirir e aperfeiçoar habilidades de soft-skills, hard-skills, mindset e inteligência emocional. Meu plano é me tornar um desenvolvedor júnior em 3 meses, pleno em 6 meses, sênior em 1 ano e, posteriormente, adicionar habilidades em multi-cloud e microservices.
+- Participando de uma mentoria com Marco Castro da DesenvolvendoMe
+- Desenvolvimento de habilidades em soft skills como comunicação, colaboração, disciplina, foco, autogestão, autodidata, trabalho em equipe, resolução de problemas, qualidade, empatia e resiliência
+- Desenvolvimento de habilidades em hard skills como projeto básico, gestão e planejamento de projeto ágil, ferramentas para aumentar a produtividade, desenvolvimento e análise de código, processo de desenvolvimento, entrega e qualidade de software, gestão de versionamento de código e gestão de qualidade de código
 
-## Habilidades
+## Habilidades em Tecnologias
 
-Possuo habilidades em várias tecnologias, incluindo:
-- Front-end: HTML, CSS, JavaScript, ReactJS, Node.js;
-- Back-end: TypeScript, Node.js, Python (Django e Flask), Java, C# e Ruby;
-- Desktop: Clipper, ADVPL e Delphi;
-- Mobile: Flutter;
-- Bancos de Dados: MySQL, SQL Server e Postgres.
+- Tecnologias front-end: HTML, CSS, JavaScript, ReactJS e NodeJS
+- Tecnologias back-end: TypeScript, NodeJS, Python (Django e Flask), Java, C# e Ruby
+- Tecnologia desktop: Clipper, ADVPL e Delphi
+- Tecnologia mobile: Flutter
+- Bancos de Dados: MySQL, SQL Server e Postgresql
+
+## Objetivos de Carreira
+
+Planejo me tornar um desenvolvedor júnior em 3 meses, pleno em 6 meses e sênior em 1 ano, adicionando no meu plano multi-cloud e microservices.
+
+## Contato
+
+- Email: eskokado@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/edson-shideki-kokado/)
+- [Github](https://github.com/eskokado)
 
 ## Conclusão
 
-Espero ter demonstrado minha vasta experiência e conhecimento em programação, bem como minha dedicação e comprometimento em aprimorar minhas habilidades constantemente. Estou ansioso para retornar ao mercado de trabalho e colaborar em projetos desafiadores e, ao mesmo tempo, adquirir novos conhecimentos e experiências. Agradeço pela oportunidade de apresentar minha experiência e habilidades, e estou à disposição para esclarecer quaisquer dúvidas adicionais.
-
-
+Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e aplicar minhas habilidades e conhecimentos para resolver problemas de negócios e atender às necessidades dos clientes. Estou aberto a oportunidades de emprego e espero contribuir para o sucesso da empresa que me contratar.
 <br><br>  
 
 ## Tecnologia
