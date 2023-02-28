@@ -118,7 +118,7 @@ Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e
         </tr>
 	<tr>
 		<td>2</td>
-            	<td><a href="https://github.com/eskokado/ecommerce-api-esk"><b>My Study Ruby On Rails/Backend-Reactjs/Fontend-Mobile/ReactNative E-commerce Esk</b></a></td>
+            	<td><a href="https://github.com/eskokado/ecommerce-api-esk"><b>My Study Ruby On Rails/Backend - Reactjs/Fontend - Mobile/ReactNative E-commerce Esk</b></a></td>
 		<td>Study</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
