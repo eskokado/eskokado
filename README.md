@@ -118,12 +118,21 @@ Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e
         </tr>
 	<tr>
 		<td>2</td>
-            	<td><a href="https://github.com/eskokado/ecommerce-api-esk"><b>E-commerce Esk</b></a></td>
+            	<td><a href="https://github.com/eskokado/ecommerce-api-esk"><b>My Study Ruby On Rails/Backend-Reactjs/Fontend-Mobile/ReactNative E-commerce Esk</b></a></td>
 		<td>Study</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
+        </tr>
+	<tr>
+		<td>2</td>
+            	<td><a href="https://github.com/eskokado/udm-ror-mpv-almoxarifado"><b>My Study Ruby On Rails</b></a></td>
+		<td>Study</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/udm-ror-mpv-almoxarifado?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/udm-ror-mpv-almoxarifado?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/udm-ror-mpv-almoxarifado?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/udm-ror-mpv-almoxarifado?style=flat-square&labelColor=343b41" /></td>
         </tr>
     </tbody>
 </table>
