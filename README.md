@@ -137,6 +137,33 @@ Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e
     </tbody>
 </table>
 
+<h3>Technical tests</h3>
+<table>
+    <thead align="center">
+        <tr border: none;>
+            <td><b>Id</b></td>
+	    <td><b>Repository</b></td>
+	    <td><b>Tools</b></td>
+        </tr>
+    </thead>
+    <tbody>
+	<tr>
+		<td>1</td>
+            	<td><a href="https://github.com/eskokado/apidelivery-esk"><b>Api delivery</b></a></td>
+            	<td>Java | Quarkus</td>
+        </tr>
+	<tr>
+		<td>2</td>
+            	<td><a href="https://github.com/eskokado/apidelivery_nestjs"><b>Api delivery</b></a></td>
+            	<td>Nodejs | Nestjs | PrismaORM</td>
+        </tr>
+	<tr>
+		<td>3</td>
+            	<td><a href="https://github.com/eskokado/apidelivery_django"><b>Api delivery</b></a></td>
+            	<td>Python | Django</td>
+        </tr>
+    </tbody>
+</table>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
