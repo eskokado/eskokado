@@ -138,6 +138,7 @@ Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e
 </table>
 
 <h3>Technical tests</h3>
+
 <table>
     <thead align="center">
         <tr border: none;>
