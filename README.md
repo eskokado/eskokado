@@ -23,12 +23,6 @@ Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiênc
 - 20 anos trabalhando em erps, com destaque para o desenvolvimento de um em clipper e a parte financeira de um em delphi
 - +5 anos de experiência com o Protheus em departamentos como faturamento, vendas, financeiro, compras, estoque, contabilidade e RH, incluindo customização, documentação e suporte do sistema
 
-## Habilidades Técnicas
-
-- Linguagens de programação: Clipper, ADVPL, Delphi, Flutter e Visual Basic
-- Bancos de Dados: Postgresql, MySQL, SQL Server
-- Conhecimentos em Java, C#, JavaScript, Node e TypeScript
-
 ## Formação Acadêmica e Cursos
 
 - Participando de uma jornada de estudo de desenvolvedor full-stack na Kenzie Academy
