@@ -66,6 +66,8 @@ Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-05122A.svg?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/python-05122A.svg?style=flat&logo=python)
+![Django](https://img.shields.io/badge/django-05122A.svg?style=flat&logo=django)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=spring)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
