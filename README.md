@@ -82,6 +82,8 @@ Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Rubymine](https://img.shields.io/badge/-Rubymine-05122A?style=flat&logo=rubymine)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insominia)&nbsp;
