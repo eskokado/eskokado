@@ -164,7 +164,7 @@ Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e
     </tbody>
 </table>
 
-<h3>multitenance and softdelete base repository with tests for ci</h3>
+<h3>Multitenance and softdelete base repository with tests for ci</h3>
 
 <table>
     <thead align="center">
@@ -177,7 +177,28 @@ Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a href="[https://github.com/eskokado/apidelivery-esk](https://github.com/eskokado/startup-base-tenancy-with-softdelete)"><b>Api delivery</b></a></td>
+            	<td><a href="https://github.com/eskokado/startup-base-tenancy-with-softdelete"><b>Startup base tenancy with softdelete</b></a></td>
+            	<td>Ruby on rails | CI </td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>Development by Delivery multitenance and softdelete with tests for ci</h3>
+
+<table>
+    <thead align="center">
+        <tr border: none;>
+            <td><b>Projeto</b></td>
+            <td><b>Módulo</b></td>
+	    <td><b>Repository</b></td>
+	    <td><b>Tools</b></td>
+        </tr>
+    </thead>
+    <tbody>
+	<tr>
+		<td>Delivery</td>
+		<td>Admin Client</td>
+            	<td><a href="https://github.com/eskokado/startup-delivery"><b>Delivery - Admin Client</b></a></td>
             	<td>Ruby on rails | CI </td>
         </tr>
     </tbody>
