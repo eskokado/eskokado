@@ -107,6 +107,24 @@ Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e
     <tbody>
 	<tr>
 		<td>1</td>
+            	<td><a href="https://github.com/eskokado/startup-delivery"><b>Startup Delivery</b></a></td>
+		<td>Study</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/startup-delivery?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/startup-delivery?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/startup-delivery?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/startup-delivery?style=flat-square&labelColor=343b41" /></td>
+        </tr>
+	<tr>
+		<td>2</td>
+            	<td><a href="https://github.com/eskokado/startup-base-tenancy-with-softdelete"><b>Startup base multitenance with softdeleten</b></a></td>
+		<td>Study</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/startup-base-tenancy-with-softdelete?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/startup-base-tenancy-with-softdelete?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/startup-base-tenancy-with-softdelete?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/startup-base-tenancy-with-softdelete?style=flat-square&labelColor=343b41" /></td>
+        </tr>
+	<tr>
+		<td>3</td>
             	<td><a href="https://github.com/eskokado/my_study_plan"><b>My Study Plan</b></a></td>
 		<td>Study</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
@@ -115,7 +133,7 @@ Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
         </tr>
 	<tr>
-		<td>2</td>
+		<td>4</td>
             	<td><a href="https://github.com/eskokado/ecommerce-api-esk"><b>My Study Ruby On Rails/Backend E-commerce Esk</b></a></td>
 		<td>Study</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
@@ -124,7 +142,7 @@ Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
         </tr>
 	<tr>
-		<td>2</td>
+		<td>5</td>
             	<td><a href="https://github.com/eskokado/my_study_plan_livraria"><b>My Study Mvp Livraria</b></a></td>
 		<td>Study</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/my_study_plan_livraria?style=flat-square&labelColor=343b41" /></td>
