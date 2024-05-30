@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Edson Shideki Kokado - Resumo do Perfil Profissional
 
 ## Introdução
@@ -27,69 +28,103 @@ Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiênc
 
 - Participando de uma jornada de estudo de desenvolvedor full-stack na Kenzie Academy
 - Certificados de diversos cursos de soft e hard skills na Udemy
+- Certificados de diversos cursos de soft e hard na DIO
 - 2 jornadas de estudo documentadas no Github
 
 ## Mentoria e Habilidades Desenvolvidas
 
 - Participando de uma mentoria com Marco Castro da DesenvolvendoMe
+- Participando de diversos mentorias de DIO
 - Desenvolvimento de habilidades em soft skills como comunicação, colaboração, disciplina, foco, autogestão, autodidata, trabalho em equipe, resolução de problemas, qualidade, empatia e resiliência
 - Desenvolvimento de habilidades em hard skills como projeto básico, gestão e planejamento de projeto ágil, ferramentas para aumentar a produtividade, desenvolvimento e análise de código, processo de desenvolvimento, entrega e qualidade de software, gestão de versionamento de código e gestão de qualidade de código
 
 ## Habilidades em Tecnologias
 
-- Tecnologias front-end: HTML, CSS, JavaScript, ReactJS e NodeJS
-- Tecnologias back-end: TypeScript, NodeJS, Python (Django e Flask), Java, C# e Ruby
-- Tecnologia desktop: Clipper, ADVPL e Delphi
-- Tecnologia mobile: Flutter
-- Bancos de Dados: MySQL, SQL Server e Postgresql
+### Linguagens de programação
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)>
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)>
+![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)>
+
+### Biblioteca e Frameworks
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+### Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### Cloud Computing Service
+
+![Firebase](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Sistema Operacional
+
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![Rubymine](https://img.shields.io/badge/-Rubymine-05122A?style=for-the-badge&logo=rubymine&logoColor-white)
+![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=for-the-badge&logo=pycharm&logoColor-white)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown&logoColor-white)
+![Postman](https://img.shields.io/badge/Postman-05122A?style=for-the-badge&logo=postman&logoColor-white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=for-the-badge&logo=insominia&logoColor-white)
+![Docker](https://img.shields.io/badge/docker-05122A?style=for-the-badge&logo=docker&logoColor-white)
+
+## Cars
+
+### Github stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eskokado&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eskokado&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Objetivos de Carreira
 
 Planejo me tornar um desenvolvedor júnior em 3 meses, pleno em 6 meses e sênior em 1 ano, adicionando no meu plano multi-cloud e microservices.
 
-## Contato
-
-- Email: eskokado@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/edson-shideki-kokado/)
-- [Github](https://github.com/eskokado)
-
 ## Conclusão
 
 Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e aplicar minhas habilidades e conhecimentos para resolver problemas de negócios e atender às necessidades dos clientes. Estou aberto a oportunidades de emprego e espero contribuir para o sucesso da empresa que me contratar.
-<br><br>  
-
-## Tecnologia
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-05122A.svg?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/python-05122A.svg?style=flat&logo=python)
-![Django](https://img.shields.io/badge/django-05122A.svg?style=flat&logo=django)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=spring)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Dart](https://img.shields.io/badge/dart-05122A.svg?style=flat&logo=dart)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![POSTGRESQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-05122A?style=flat&logo=microsoft%20sql%20server)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-
-## 🛠 &nbsp;Ferramentas
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Rubymine](https://img.shields.io/badge/-Rubymine-05122A?style=flat&logo=rubymine)&nbsp;
-![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman)
-![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insominia)&nbsp;
-![Docker](https://img.shields.io/badge/docker-05122A?style=flat&logo=docker)
-![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=Flutter)
-<br><br>
 
 <h3>Projects</h3>
 <table>
@@ -222,15 +257,9 @@ Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e
     </tbody>
 </table>
 
-
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<p align="left" style="background:yellow">  
-  <a href="https://www.linkedin.com/in/edson-shideki-kokado/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank">
-  </a>
-  
-  <a href = "mailto:eskokado@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" target="_blank">
-  </a>  
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-shideki-kokado/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eskokado)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eskokado@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio.eskcti.com.br/)
