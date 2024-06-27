@@ -116,7 +116,12 @@ Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiênc
 
 ### Most Used Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eskokado\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Wakatime
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eskokado)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Objetivos de Carreira
 
 Planejo me tornar um desenvolvedor júnior em 3 meses, pleno em 6 meses e sênior em 1 ano, adicionando no meu plano multi-cloud e microservices.
