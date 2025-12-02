@@ -26,15 +26,15 @@ Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiênc
 
 ## Formação Acadêmica e Cursos
 
-- Participando de uma jornada de estudo de desenvolvedor full-stack na Kenzie Academy
+- Participei de uma jornada de estudo de desenvolvedor full-stack na Kenzie Academy
 - Certificados de diversos cursos de soft e hard skills na Udemy
 - Certificados de diversos cursos de soft e hard na DIO
 - 2 jornadas de estudo documentadas no Github
 
 ## Mentoria e Habilidades Desenvolvidas
 
-- Participando de uma mentoria com Marco Castro da DesenvolvendoMe
 - Participando de diversos mentorias de DIO
+- Participei de uma mentoria com Marco Castro da DesenvolvendoMe
 - Desenvolvimento de habilidades em soft skills como comunicação, colaboração, disciplina, foco, autogestão, autodidata, trabalho em equipe, resolução de problemas, qualidade, empatia e resiliência
 - Desenvolvimento de habilidades em hard skills como projeto básico, gestão e planejamento de projeto ágil, ferramentas para aumentar a produtividade, desenvolvimento e análise de código, processo de desenvolvimento, entrega e qualidade de software, gestão de versionamento de código e gestão de qualidade de código
 
@@ -42,7 +42,7 @@ Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiênc
 
 ### Linguagens de programação
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)>
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -50,8 +50,8 @@ Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiênc
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)>
-![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)>
+![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
 
 ### Biblioteca e Frameworks
 
@@ -98,6 +98,7 @@ Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiênc
 
 ### Ferramentas
 
+![Trae](https://img.shields.io/badge/Trae-7D3CFF?style=for-the-badge)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
@@ -124,11 +125,11 @@ Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiênc
 
 ## Objetivos de Carreira
 
-Planejo me tornar um desenvolvedor júnior em 3 meses, pleno em 6 meses e sênior em 1 ano, adicionando no meu plano multi-cloud e microservices.
+Planejo, na carreira de pleno, evoluir para arquiteto de software, fortalecendo meu plano de atuação em ambientes multicloud e arquiteturas de microsserviços.
 
 ## Conclusão
 
-Estou altamente motivado para voltar ao mercado de trabalho como desenvolvedor e aplicar minhas habilidades e conhecimentos para resolver problemas de negócios e atender às necessidades dos clientes. Estou aberto a oportunidades de emprego e espero contribuir para o sucesso da empresa que me contratar.
+Como desenvolvedor pleno de volta ao mercado, estou ainda mais motivado pelo avanço das novas tecnologias de IA. Busco aplicar minhas habilidades para resolver desafios reais de negócio, desenvolver soluções eficientes e gerar valor para clientes e equipes. Sigo aberto a novas possibilidades de crescimento e comprometido em contribuir para o sucesso da empresa onde atuo.
 
 <h3>Projects</h3>
 <table>
