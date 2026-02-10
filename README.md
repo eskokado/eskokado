@@ -1,46 +1,79 @@
-<!--
-**eskokado/eskokado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou o **Edson Shideki Kokado**
 
-Here are some ideas to get you started:
+🎯 **Desenvolvedor Sênior | Backend | ERP Protheus | APIs | Integração de Sistemas**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um profissional de tecnologia com mais de **20 anos de experiência em desenvolvimento de software corporativo**, com foco em soluções robustas, integração entre sistemas complexos, APIs e desenvolvimento backend e frontend. Tenho experiência comprovada em **ERP (Totvs Protheus – ADVPL/TL++)**, além de atuação com linguagens modernas e frameworks amplamente utilizados no mercado.
 
-# Edson Shideki Kokado - Resumo do Perfil Profissional
+---
 
-## Introdução
+## 🌐 Sobre Mim
 
-Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiência em desenvolvimento de software. Depois de um período de 12 anos sem programar, estou de volta ao mercado e me atualizando rapidamente com as últimas tecnologias.
+Ao longo da minha carreira, atuei em:
 
-## Experiência Profissional
+- Desenvolvimento e customização de **Totvs Protheus** (ADVPL e TL++), automatizando processos de negócios, integrações ERP e adaptando rotinas para operações corporativas;
+- Desenvolvimento de backend com **C#, Java, Go e Kotlin**;
+- Projetos frontend com **Angular, React e Vue**, criando interfaces modernas e responsivas;
+- Construção de APIs REST e integração com sistemas externos;
+- Estudos e implementação de arquitetura moderna (clean architecture, boas práticas e princípios de design);
+- Microsserviços em contexto de aprendizado e aplicação técnica (Java, Kotlin, C# e Go), com ênfase em padrões, boas práticas e integração.
 
-- 20 anos trabalhando em erps, com destaque para o desenvolvimento de um em clipper e a parte financeira de um em delphi
-- +5 anos de experiência com o Protheus em departamentos como faturamento, vendas, financeiro, compras, estoque, contabilidade e RH, incluindo customização, documentação e suporte do sistema
+---
 
-## Formação Acadêmica e Cursos
+## 🧰 Tecnologias & Competências
 
-- Participei de uma jornada de estudo de desenvolvedor full-stack na Kenzie Academy
-- Certificados de diversos cursos de soft e hard skills na Udemy
-- Certificados de diversos cursos de soft e hard na DIO
-- 2 jornadas de estudo documentadas no Github
+### 🧠 ERP Corporativo
 
-## Mentoria e Habilidades Desenvolvidas
+- **Totvs Protheus (ADVPL / TL++)** — customização de módulos, integração com sistemas externos, automação de regras de negócio e rotinas padrão
+- Criação de APIs para integração com ERP
+- Validação de dados e consistência transacional
 
-- Participando de diversos mentorias de DIO
-- Participei de uma mentoria com Marco Castro da DesenvolvendoMe
-- Desenvolvimento de habilidades em soft skills como comunicação, colaboração, disciplina, foco, autogestão, autodidata, trabalho em equipe, resolução de problemas, qualidade, empatia e resiliência
-- Desenvolvimento de habilidades em hard skills como projeto básico, gestão e planejamento de projeto ágil, ferramentas para aumentar a produtividade, desenvolvimento e análise de código, processo de desenvolvimento, entrega e qualidade de software, gestão de versionamento de código e gestão de qualidade de código
+### 💻 Backend & APIs
+
+- **C#**
+- **Java**
+- **Go**
+- **Kotlin**
+- Construção de APIs REST com práticas sólidas de design e segurança
+
+### 🌐 Frontend
+
+- **Angular**
+- **React**
+- **Vue**
+- Boas práticas de UI/UX e integração com APIs backend
+
+### ☁️ Arquitetura & Princípios de Engenharia
+
+- Clean Architecture
+- Boas práticas de código e padrões de projeto
+- Estudos e aplicação de conceitos de microsserviços
+- Integração de sistemas corporativos
+
+### 🧠 Domain-Driven Design (DDD)
+
+Tenho experiência com **Domain-Driven Design aplicado à prática**, especialmente em:
+
+- Separar claramente os Contextos de Domínio (Bounded Contexts)
+- Modelar regras de negócio de forma explícita
+- Construir serviços que respeitam consistência de agregados
+- Organizar código em camadas (domínio, aplicação, infraestrutura, interfaces)
+- Facilitar a comunicação com equipes de negócio por meio de linguagem ubíqua
+
+DDD é utilizado onde há lógica de negócio significativa, garantindo clareza arquitetural e facilidade de evolução.
+
+### 🧰 Ferramentas e Metodologias
+
+- Docker
+- Git e GitHub
+- Testes automatizados
+- Integração contínua (CI/CD)
+
+---
 
 ## Habilidades em Tecnologias
 
 ### Linguagens de programação
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -109,27 +142,31 @@ Olá, sou Edson Shideki Kokado, um programador com mais de 20 anos de experiênc
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=for-the-badge&logo=insominia&logoColor-white)
 ![Docker](https://img.shields.io/badge/docker-05122A?style=for-the-badge&logo=docker&logoColor-white)
 
-## Cars
+---
 
-### Github stats
+## 🚀 Projetos em Destaque
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eskokado&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### 🔹 Integração ERP Protheus
 
-### Most Used Languages
+Automatização de rotinas de negócios, integrações e customizações de módulos usando ADVPL e TL++, com foco em consistência de dados e integração com sistemas externos.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eskokado\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+### 🔹 APIs e Backend Corporativo
 
-### Wakatime
+APIs robustas desenvolvidas com C#, Java, Go e Kotlin, seguindo boas práticas arquiteturais e padrões REST.
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eskokado)](https://github.com/anuraghazra/github-readme-stats)
+### 🔹 Frontend Moderno
 
-## Objetivos de Carreira
+Projetos com Angular, React e Vue com foco em experiências de usuário eficientes e conexão com backend via APIs.
 
-Planejo, na carreira de pleno, evoluir para arquiteto de software, fortalecendo meu plano de atuação em ambientes multicloud e arquiteturas de microsserviços.
+---
 
-## Conclusão
+## 📌 Sobre Minha Jornada
 
-Como desenvolvedor pleno de volta ao mercado, estou ainda mais motivado pelo avanço das novas tecnologias de IA. Busco aplicar minhas habilidades para resolver desafios reais de negócio, desenvolver soluções eficientes e gerar valor para clientes e equipes. Sigo aberto a novas possibilidades de crescimento e comprometido em contribuir para o sucesso da empresa onde atuo.
+Após uma pausa para cuidado com a minha saúde, retomei minha carreira com foco renovado em tecnologia, aplicando minhas experiências anteriores em ERP e sistemas corporativos e ampliando minhas habilidades em linguagens modernas, APIs e práticas de engenharia de software contemporâneas.
+
+---
+
+## ⭐ Repositórios Fixados
 
 <h3>Projects</h3>
 <table>
@@ -267,4 +304,16 @@ Como desenvolvedor pleno de volta ao mercado, estou ainda mais motivado pelo ava
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-shideki-kokado/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eskokado)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eskokado@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio.eskcti.com.br/)
+
+---
+
+## 📫 Vamos Conversar?
+
+Estou aberto a:
+
+- Oportunidades desafiadoras em backend, integração e arquitetura;
+- Projetos de consultoria e desenvolvimento;
+- Soluções que envolvam ERP, APIs e sistemas corporativos.
+
+📧 **Email:** eskokado@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/edson-shideki-kokado/
