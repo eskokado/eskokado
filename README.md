@@ -1,319 +1,110 @@
-# 👋 Olá! Eu sou o **Edson Shideki Kokado**
+# 👋 Olá! Eu sou **Edson Shideki Kokado**
 
-🎯 **Desenvolvedor Sênior | Backend | ERP Protheus | APIs | Integração de Sistemas**
+🎯 **Engenheiro de Software Sênior | Especialista em Modernização de Sistemas, DDD & Microsserviços**
 
-Sou um profissional de tecnologia com mais de **20 anos de experiência em desenvolvimento de software corporativo**, com foco em soluções robustas, integração entre sistemas complexos, APIs e desenvolvimento backend e frontend. Tenho experiência comprovada em **ERP (Totvs Protheus – ADVPL/TL++)**, além de atuação com linguagens modernas e frameworks amplamente utilizados no mercado.
+Sou um profissional de tecnologia com mais de **20 anos de experiência** na construção e sustentação de sistemas corporativos críticos. Minha carreira é marcada por uma transição estratégica: utilizei minha profunda compreensão de regras de negócio complexas (adquirida em ambientes ERP/Totvs Protheus) como base para dominar e aplicar **arquiteturas modernas, Domain-Driven Design (DDD) e Microsserviços**.
 
----
-
-## 🌐 Sobre Mim
-
-Ao longo da minha carreira, atuei em:
-
-- Desenvolvimento e customização de **Totvs Protheus** (ADVPL e TL++), automatizando processos de negócios, integrações ERP e adaptando rotinas para operações corporativas;
-- Desenvolvimento de backend com **C#, Java, Go e Kotlin**;
-- Projetos frontend com **Angular, React e Vue**, criando interfaces modernas e responsivas;
-- Construção de APIs REST e integração com sistemas externos;
-- Estudos e implementação de arquitetura moderna (clean architecture, boas práticas e princípios de design);
-- Microsserviços em contexto de aprendizado e aplicação técnica (Java, Kotlin, C# e Go), com ênfase em padrões, boas práticas e integração.
+Atualmente, meu foco é a **engenharia de software impulsionada por IA**: crio agentes e *skills* (como no Cursor) para padronizar a aplicação de Clean Architecture e DDD em múltiplas stacks, acelerando a entrega de valor com consistência técnica.
 
 ---
 
-## 🧰 Tecnologias & Competências
+## 🚀 Diferenciais & Foco Atual
 
-### 🧠 ERP Corporativo
-
-- **Totvs Protheus (ADVPL / TL++)** — customização de módulos, integração com sistemas externos, automação de regras de negócio e rotinas padrão
-- Criação de APIs para integração com ERP
-- Validação de dados e consistência transacional
-
-### 💻 Backend & APIs
-
-- **C#**
-- **Java**
-- **Go**
-- **Kotlin**
-- Construção de APIs REST com práticas sólidas de design e segurança
-
-### 🌐 Frontend
-
-- **Angular**
-- **React**
-- **Vue**
-- Boas práticas de UI/UX e integração com APIs backend
-
-### ☁️ Arquitetura & Princípios de Engenharia
-
-- Clean Architecture
-- Boas práticas de código e padrões de projeto
-- Estudos e aplicação de conceitos de microsserviços
-- Integração de sistemas corporativos
-
-### 🧠 Domain-Driven Design (DDD)
-
-Tenho experiência com **Domain-Driven Design aplicado à prática**, especialmente em:
-
-- Separar claramente os Contextos de Domínio (Bounded Contexts)
-- Modelar regras de negócio de forma explícita
-- Construir serviços que respeitam consistência de agregados
-- Organizar código em camadas (domínio, aplicação, infraestrutura, interfaces)
-- Facilitar a comunicação com equipes de negócio por meio de linguagem ubíqua
-
-DDD é utilizado onde há lógica de negócio significativa, garantindo clareza arquitetural e facilidade de evolução.
-
-### 🧰 Ferramentas e Metodologias
-
-- Docker
-- Git e GitHub
-- Testes automatizados
-- Integração contínua (CI/CD)
+| 🧠 Domínio & Arquitetura | 🤖 Inovação com IA | 🎓 Aprendizado Contínuo |
+| :--- | :--- | :--- |
+| Modelagem de Domínio (DDD), CQRS, Clean/Hexagonal Architecture e padrões de resiliência. | Criação de *prompts* e *skills* para agentes de IA (Cursor) gerarem código tático de DDD automaticamente. | Formação "Especialista em Microsserviços" (AlgaWorks), aplicando conceitos em projetos reais (Java/Spring, Go, C#). |
 
 ---
 
-## Habilidades em Tecnologias
+## 🛠️ Stack Tecnológica Principal
 
-### Linguagens de programação
+*Foco em qualidade, escalabilidade e boas práticas de engenharia.*
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 💻 Backend & Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
-![Delphi](https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Biblioteca e Frameworks
+### 🏛️ Arquitetura & Padrões
+`Domain-Driven Design (DDD)` `Clean Architecture` `Microsserviços` `CQRS` `Event-Driven` `RESTful APIs` `Strangler Fig Pattern`
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+### 🗄️ Dados & Mensageria
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-### Banco de Dados
+### ☁️ DevOps, Cloud & Qualidade
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-000000?style=for-the-badge&logo=testcontainers&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cloud Computing Service
-
-![Firebase](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Sistema Operacional
-
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-
-### Ferramentas
-
-![Trae](https://img.shields.io/badge/Trae-7D3CFF?style=for-the-badge)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![Rubymine](https://img.shields.io/badge/-Rubymine-05122A?style=for-the-badge&logo=rubymine&logoColor-white)
-![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=for-the-badge&logo=pycharm&logoColor-white)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown&logoColor-white)
-![Postman](https://img.shields.io/badge/Postman-05122A?style=for-the-badge&logo=postman&logoColor-white)
-![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=for-the-badge&logo=insominia&logoColor-white)
-![Docker](https://img.shields.io/badge/docker-05122A?style=for-the-badge&logo=docker&logoColor-white)
+### 🤖 Ferramentas de IA & Produtividade
+![Cursor](https://img.shields.io/badge/Cursor-5642D6?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🤖 Projetos de Inovação & MVPs com IA
 
-### 🔹 Integração ERP Protheus
+Projetos onde aplico Engenharia de Software combinada com Inteligência Artificial para otimizar o desenvolvimento.
 
-Automatização de rotinas de negócios, integrações e customizações de módulos usando ADVPL e TL++, com foco em consistência de dados e integração com sistemas externos.
-
-### 🔹 APIs e Backend Corporativo
-
-APIs robustas desenvolvidas com C#, Java, Go e Kotlin, seguindo boas práticas arquiteturais e padrões REST.
-
-### 🔹 Frontend Moderno
-
-Projetos com Angular, React e Vue com foco em experiências de usuário eficientes e conexão com backend via APIs.
+| Projeto | Descrição | Stack / Conceitos | Link |
+| :--- | :--- | :--- | :--- |
+| **E-commerce CS (MVP)** | MVP de e-commerce desenvolvido com a assistência e padronização de agentes de IA, focando em entrega rápida e arquitetura limpa. | C#, Clean Architecture, IA Generativa | [🔗 Ver Repositório](https://github.com/EskCti/ecommerce_cs) |
+| **Skills DDD Clean Cursor** | Framework de *skills* personalizado para o editor Cursor. Automatiza a geração de Entities, Value Objects, Aggregates e Services seguindo DDD Tático. | Prompt Engineering, DDD, Multi-stack | [🔗 Ver Repositório](https://github.com/EskCti/skills-ddd-clean-cursor) |
 
 ---
 
-## 📌 Sobre Minha Jornada
+## 🎓 Jornada: Especialista em Microsserviços (AlgaWorks)
 
-Após uma pausa para cuidado com a minha saúde, retomei minha carreira com foco renovado em tecnologia, aplicando minhas experiências anteriores em ERP e sistemas corporativos e ampliando minhas habilidades em linguagens modernas, APIs e práticas de engenharia de software contemporâneas.
+Acompanhamento prático da minha formação, transformando teoria em repositórios de código production-ready.
+
+| Nível | Foco Principal | Status | Repositórios de Referência |
+| :---: | :--- | :---: | :--- |
+| **Nível 1** | Fundamentos, REST, RabbitMQ, Resiliência (Retry, DLQ) | ✅ Concluído | `alga-sensors`, `alga-shop` |
+| **Nível 2** | DDD Tático, Rich Domain Model, CQRS, Hexagonal Architecture | ✅ Concluído | `ordering`, `billing` |
+| **Nível 3** | Contract-Driven Dev (Spring Cloud Contract), Testcontainers, Flyway | 🔄 Em Andamento | `ordering`, `product-catalog` |
+| **Nível 4** | NoSQL (MongoDB), Redis (Cache Patterns), K6 Performance Testing | ⏳ Próximo Passo | `product-catalog` |
+| **Nível 5** | OAuth2, Spring Authorization Server, OIDC, AWS Secrets Manager | ⏳ Planejamento | `auth-server`, microsserviços |
+
+*(Nota: Os nomes dos repositórios são ilustrativos da jornada. Atualize os links conforme você os cria no seu GitHub).*
 
 ---
 
-## ⭐ Repositórios Fixados
+## 💼 Projetos em Destaque
 
-<h3>Projects</h3>
-<table>
-    <thead align="center">
-        <tr border: none;>
-            <td><b>Id</b></td>
-	    <td><b>Projects</b></td>
-	    <td><b>Skills</b></td>
-            <td><b>Stars</b></td>
-            <td><b>Forks</b></td>
-            <td><b>Issues</b></td>
-            <td><b>Pull requests</b></td>
-        </tr>
-    </thead>
-    <tbody>
-	<tr>
-		<td>1</td>
-            	<td><a href="https://github.com/eskokado/startup-delivery"><b>Startup Delivery</b></a></td>
-		<td>Study</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/startup-delivery?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/startup-delivery?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/startup-delivery?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/startup-delivery?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-	<tr>
-		<td>2</td>
-            	<td><a href="https://github.com/eskokado/startup-base-tenancy-with-softdelete"><b>Startup base multitenance with softdeleten</b></a></td>
-		<td>Study</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/startup-base-tenancy-with-softdelete?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/startup-base-tenancy-with-softdelete?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/startup-base-tenancy-with-softdelete?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/startup-base-tenancy-with-softdelete?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-	<tr>
-		<td>3</td>
-            	<td><a href="https://github.com/eskokado/my_study_plan"><b>My Study Plan</b></a></td>
-		<td>Study</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/my_study_plan?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-	<tr>
-		<td>4</td>
-            	<td><a href="https://github.com/eskokado/ecommerce-api-esk"><b>My Study Ruby On Rails/Backend E-commerce Esk</b></a></td>
-		<td>Study</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/ecommerce-api-esk?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-	<tr>
-		<td>5</td>
-            	<td><a href="https://github.com/eskokado/my_study_plan_livraria"><b>My Study Mvp Livraria</b></a></td>
-		<td>Study</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/eskokado/my_study_plan_livraria?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/eskokado/my_study_plan_livraria?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/eskokado/my_study_plan_livraria?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/eskokado/my_study_plan_livraria?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-    </tbody>
-</table>
+### 🔹 Modernização & Arquitetura Corporativa
+- **[Startup Base Multitenancy](https://github.com/eskokado/startup-base-tenancy-with-softdelete)**: Arquitetura base robusta com suporte a Multitenancy e Soft Delete, incluindo pipeline de CI para testes automatizados. *(Ruby on Rails)*
+- **[APIs de Delivery](https://github.com/eskokado/apidelivery-esk)**: Implementação de APIs RESTful seguindo princípios de design limpo. *(Java/Quarkus, NestJS, Django)*
 
-<h3>Technical tests</h3>
+### 🔹 Integração & Legado Modernizado
+- **Integração ERP Protheus**: Décadas de experiência em customização de módulos, criação de APIs REST para expor dados do ERP e garantia de consistência transacional em ambientes de alta criticidade. *(ADVPL/TL++, SQL)*
 
-<table>
-    <thead align="center">
-        <tr border: none;>
-            <td><b>Id</b></td>
-	    <td><b>Repository</b></td>
-	    <td><b>Tools</b></td>
-        </tr>
-    </thead>
-    <tbody>
-	<tr>
-		<td>1</td>
-            	<td><a href="https://github.com/eskokado/apidelivery-esk"><b>Api delivery</b></a></td>
-            	<td>Java | Quarkus</td>
-        </tr>
-	<tr>
-		<td>2</td>
-            	<td><a href="https://github.com/eskokado/apidelivery_nestjs"><b>Api delivery</b></a></td>
-            	<td>Nodejs | Nestjs | PrismaORM</td>
-        </tr>
-	<tr>
-		<td>3</td>
-            	<td><a href="https://github.com/eskokado/apidelivery_django"><b>Api delivery</b></a></td>
-            	<td>Python | Django</td>
-        </tr>
-    </tbody>
-</table>
+---
 
-<h3>Multitenance and softdelete base repository with tests for ci</h3>
+## 📌 Minha Jornada
 
-<table>
-    <thead align="center">
-        <tr border: none;>
-            <td><b>Id</b></td>
-	    <td><b>Repository</b></td>
-	    <td><b>Tools</b></td>
-        </tr>
-    </thead>
-    <tbody>
-	<tr>
-		<td>1</td>
-            	<td><a href="https://github.com/eskokado/startup-base-tenancy-with-softdelete"><b>Startup base tenancy with softdelete</b></a></td>
-            	<td>Ruby on rails | CI </td>
-        </tr>
-    </tbody>
-</table>
-
-<h3>Development by Delivery multitenance and softdelete with tests for ci</h3>
-
-<table>
-    <thead align="center">
-        <tr border: none;>
-            <td><b>Projeto</b></td>
-            <td><b>Módulo</b></td>
-	    <td><b>Repository</b></td>
-	    <td><b>Tools</b></td>
-        </tr>
-    </thead>
-    <tbody>
-	<tr>
-		<td>Delivery</td>
-		<td>Admin Client</td>
-            	<td><a href="https://github.com/eskokado/startup-delivery"><b>Delivery - Admin Client</b></a></td>
-            	<td>Ruby on rails | CI </td>
-        </tr>
-    </tbody>
-</table>
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-shideki-kokado/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eskokado)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eskokado@gmail.com)
+Após um período dedicado à recuperação da minha saúde, retomei minha carreira com **foco renovado e energia redobrada**. Estou transformando minha vasta experiência em regras de negócio e sistemas legados em um superpoder: a capacidade de projetar arquiteturas modernas (Microsserviços, DDD) que realmente resolvem problemas complexos de negócio, sem cair em armadilhas como "Monólito Distribuído" ou "Hype Driven Development".
 
 ---
 
 ## 📫 Vamos Conversar?
 
-Estou aberto a:
+Estou aberto a oportunidades desafiadoras como **Engenheiro de Software Sênior, Arquiteto de Soluções ou Especialista em Modernização de Sistemas**.
 
-- Oportunidades desafiadoras em backend, integração e arquitetura;
-- Projetos de consultoria e desenvolvimento;
-- Soluções que envolvam ERP, APIs e sistemas corporativos.
+- 📧 **Email:** [eskokado@gmail.com](mailto:eskokado@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/edson-shideki-kokado](https://www.linkedin.com/in/edson-shideki-kokado/)
+- 💻 **GitHub:** [github.com/eskokado](https://github.com/eskokado)
 
-📧 **Email:** eskokado@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/edson-shideki-kokado/
+---
+<details>
+  <summary>📊 <b>Estatísticas do GitHub</b> (Clique para expandir)</summary>
+  <br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eskokado&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eskokado&show_icons=true&theme=radical" alt="GitHub Stats" />
+</details>
