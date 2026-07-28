@@ -62,7 +62,8 @@ Projetos onde aplico Engenharia de Software combinada com Inteligência Artifici
 
 ## 🎓 Jornada: Especialista em Microsserviços (AlgaWorks)
 
-Acompanhamento prático da minha formação, transformando teoria em repositórios de código production-ready.
+Acompanhamento prático da minha formação, transformando teoria em repositórios de código *production-ready*. 
+*(Nota: A formação completa possui 11 níveis. Os níveis 6 a 11 representam a sequência oficial do currículo, já mapeados em meu plano de estudos e em fase de planejamento/prática).*
 
 | Nível | Foco Principal | Status | Repositórios de Referência |
 | :---: | :--- | :---: | :--- |
@@ -71,8 +72,13 @@ Acompanhamento prático da minha formação, transformando teoria em repositóri
 | **Nível 3** | Contract-Driven Dev (Spring Cloud Contract), Testcontainers, Flyway | 🔄 Em Andamento | `ordering`, `product-catalog` |
 | **Nível 4** | NoSQL (MongoDB), Redis (Cache Patterns), K6 Performance Testing | ⏳ Próximo Passo | `product-catalog` |
 | **Nível 5** | OAuth2, Spring Authorization Server, OIDC, AWS Secrets Manager | ⏳ Planejamento | `auth-server`, microsserviços |
+| **6** | Arquitetura Orientada a Eventos (Apache Kafka, Event Sourcing) | ⏳ Planejamento | `event-streaming` |
+| **7** | GraphQL e APIs Modernas (Spring GraphQL, DGS, Federation) | ⏳ Planejamento | `graphql-gateway` |
+| **8** | gRPC e Comunicação de Alta Performance (Protocol Buffers) | ⏳ Planejamento | `grpc-services` |
+| **9** | Observabilidade (OpenTelemetry, Prometheus, Grafana, Tracing) | ⏳ Planejamento | `observability-stack` |
+| **10**| Orquestração e Kubernetes (Deploy, Helm, Service Mesh/Istio) | ⏳ Planejamento | `k8s-manifests` |
+| **11**| Tópicos Avançados e Serverless (AWS Lambda, EventBridge, FinOps)| ⏳ Planejamento | `serverless-functions` |
 
-*(Nota: Os nomes dos repositórios são ilustrativos da jornada. Atualize os links conforme você os cria no seu GitHub).*
 
 ---
 
