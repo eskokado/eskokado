@@ -55,7 +55,8 @@ Projetos onde aplico Engenharia de Software combinada com Inteligência Artifici
 
 | Projeto | Descrição | Stack / Conceitos | Link |
 | :--- | :--- | :--- | :--- |
-| **E-commerce CS (MVP)** | MVP de e-commerce desenvolvido com a assistência e padronização de agentes de IA, focando em entrega rápida e arquitetura limpa. | C#, Clean Architecture, IA Generativa | [🔗 Ver Repositório](https://github.com/EskCti/ecommerce_cs) |
+| **E-commerce CS (MVP)** | MVP de e-commerce desenvolvido com a assistência e padronização de agentes de IA, focando em entrega rápida e arquitetura limpa com DDD. | C#, VUE, Clean Architecture, DDD, IA Generativa | [🔗 Ver Repositório](https://github.com/EskCti/ecommerce_cs) |
+| **Carteira de investimentos (MVP)** | MVP de carteira de investimento desenvolvido com a assistência e padronização de agentes de IA, focando em entrega rápida e arquitetura limpa com DDD. | Rust, Axum, sqlx, Leptos SSR, Clean Architecture, DDD, IA Generativa | [🔗 Ver Repositório](https://github.com/eskokado/assets_manager_esk) |
 | **Skills DDD Clean Cursor** | Framework de *skills* personalizado para o editor Cursor. Automatiza a geração de Entities, Value Objects, Aggregates e Services seguindo DDD Tático. | Prompt Engineering, DDD, Multi-stack | [🔗 Ver Repositório](https://github.com/EskCti/skills-ddd-clean-cursor) |
 
 ---
