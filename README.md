@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou **Edson Shideki Kokado**
 
-🎯 **Engenheiro de Software Sênior | Especialista em Modernização de Sistemas, DDD & Microsserviços**
+🎯 **Engenheiro de Software | Especialista em Modernização de Sistemas, DDD & Microsserviços**
 
 Sou um profissional de tecnologia com mais de **20 anos de experiência** na construção e sustentação de sistemas corporativos críticos. Minha carreira é marcada por uma transição estratégica: utilizei minha profunda compreensão de regras de negócio complexas (adquirida em ambientes ERP/Totvs Protheus) como base para dominar e aplicar **arquiteturas modernas, Domain-Driven Design (DDD) e Microsserviços**.
 
@@ -102,7 +102,7 @@ Após um período dedicado à recuperação da minha saúde, retomei minha carre
 
 ## 📫 Vamos Conversar?
 
-Estou aberto a oportunidades desafiadoras como **Engenheiro de Software Sênior, Arquiteto de Soluções ou Especialista em Modernização de Sistemas**.
+Estou aberto a oportunidades desafiadoras como **Engenheiro de Software, Arquiteto de Soluções ou Especialista em Modernização de Sistemas**.
 
 - 📧 **Email:** [eskokado@gmail.com](mailto:eskokado@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/edson-shideki-kokado](https://www.linkedin.com/in/edson-shideki-kokado/)
