@@ -73,7 +73,7 @@ Acompanhamento prático da minha formação, transformando teoria em repositóri
 | **Nível 3** | Contract-Driven Dev (Spring Cloud Contract), Testcontainers, Flyway | ✅ Concluído | `ordering`, `product-catalog` |
 | **Nível 4** | NoSQL (MongoDB), Redis (Cache Patterns), K6 Performance Testing | ✅ Concluído | `product-catalog` |
 | **Nível 5** | OAuth2, Spring Authorization Server, OIDC, AWS Secrets Manager | ✅ Concluído | `auth-server`, microsserviços |
-| **Nível 6** | E-commerce Gateway | 🔄 Em Andamento | `gateway-ecommerce`, microsserviços |
+| **Nível 6** | API Gateway, BFF e Service Discovery | 🔄 Em Andamento | `gateway-ecommerce`, microsserviços |
 | **7** | Arquitetura Orientada a Eventos (Apache Kafka, Event Sourcing) | ⏳ Próximo Passo | `event-streaming` |
 | **8** | GraphQL e APIs Modernas (Spring GraphQL, DGS, Federation) | ⏳ Planejamento | `graphql-gateway` |
 | **9** | gRPC e Comunicação de Alta Performance (Protocol Buffers) | ⏳ Planejamento | `grpc-services` |
